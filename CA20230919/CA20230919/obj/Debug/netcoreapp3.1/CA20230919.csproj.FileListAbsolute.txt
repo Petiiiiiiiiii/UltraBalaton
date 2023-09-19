@@ -1,0 +1,13 @@
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\bin\Debug\netcoreapp3.1\CA20230919.exe
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\bin\Debug\netcoreapp3.1\CA20230919.deps.json
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\bin\Debug\netcoreapp3.1\CA20230919.runtimeconfig.json
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\bin\Debug\netcoreapp3.1\CA20230919.runtimeconfig.dev.json
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\bin\Debug\netcoreapp3.1\CA20230919.dll
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\bin\Debug\netcoreapp3.1\CA20230919.pdb
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\obj\Debug\netcoreapp3.1\CA20230919.csproj.AssemblyReference.cache
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\obj\Debug\netcoreapp3.1\CA20230919.AssemblyInfoInputs.cache
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\obj\Debug\netcoreapp3.1\CA20230919.AssemblyInfo.cs
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\obj\Debug\netcoreapp3.1\CA20230919.csproj.CoreCompileInputs.cache
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\obj\Debug\netcoreapp3.1\CA20230919.dll
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\obj\Debug\netcoreapp3.1\CA20230919.pdb
+C:\Users\C20OroszP\source\repos\CA20230919\CA20230919\obj\Debug\netcoreapp3.1\CA20230919.genruntimeconfig.cache
